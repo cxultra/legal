@@ -17,15 +17,16 @@ AniTrail integrates with and relies upon several third-party services to functio
 * **Google Drive API:** AniTrail utilizes the Google Drive API to provide cloud backup and synchronization of your personal tracking data. 
   * AniTrail only requests access to the specific application data folder it creates within your Google Drive. It does not read, modify, or access your other personal files.
   * Your use of this sync feature is subject to Google's Terms of Service.
-* **RevenueCat:** We utilize RevenueCat to securely manage in-app subscriptions and validate purchases across app stores.
+* **RevenueCat:** We utilize RevenueCat to securely manage in-app subscriptions and validate purchases.
+* **Sentry:** We utilize Sentry to capture anonymized crash logs, app stability metrics, and runtime diagnostics to monitor performance and debug software errors.
 
 ## 3. Subscriptions and In-App Purchases
 AniTrail offers an optional premium subscription ("AniTrail Premium") that unlocks additional features such as unlimited custom lists, advanced theming, and unrestricted cloud backups.
 
 * **Billing and Renewals:** Subscriptions are billed on a recurring basis (e.g., monthly) and automatically renew unless canceled at least 24 hours before the end of the current billing period.
 * **Free Trials:** If a subscription begins with a free trial period, you will automatically be charged the subscription price at the end of the trial unless canceled beforehand.
-* **Payment Processing:** All payments are processed securely by the respective app store (Google Play Store or Apple App Store). We do not store or process your credit card information.
-* **Cancellations and Refunds:** You may cancel your subscription at any time through your Google Play or Apple ID account settings. Refunds are handled exclusively by the respective app store according to their standard refund policies. CX Ultra cannot issue direct refunds.
+* **Payment Processing:** All payments are processed securely by the Google Play Store. We do not store or process your credit card information.
+* **Cancellations and Refunds:** You may cancel your subscription at any time through your Google Play account settings. Refunds are handled exclusively by the Google Play Store according to their standard refund policies. CX Ultra cannot issue direct refunds. Upon subscription cancellation, premium feature access will be restricted at the end of the current billing cycle. Any custom tracking data created exceeding the free tier limits will remain preserved in a read-only state.
 
 ## 4. User Conduct and Responsibilities
 By using AniTrail, you agree not to:
