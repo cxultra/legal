@@ -15,7 +15,8 @@ To provide its core functionality, AniTrail interacts with several third-party s
 
 * **Jikan API (MyAnimeList data):** The App queries the public Jikan REST API to search for anime, fetch metadata, and load images. These requests are made directly from your device.
 * **RevenueCat:** We use RevenueCat to process in-app subscriptions and manage premium entitlements. RevenueCat may collect anonymous purchase identifiers and device metadata to validate transactions.
-* **Google Play Services / Apple App Store:** Standard app usage metrics and crash logs may be collected automatically by the app store platforms if you have opted-in to device diagnostics.
+* **Sentry (Diagnostics):** We use Sentry to capture anonymized crash logs, system diagnostics, and runtime error traces to monitor app performance and fix software bugs. This data is entirely stripped of personally identifiable information (PII) before transmission and is used strictly for technical debugging.
+* **Google Play Services:** Standard app store metrics may be collected by Google to track active installations and platform usage statistics.
 
 ## 3. Google Drive Sync Integration
 AniTrail offers a cloud synchronization feature using Google Drive. If you choose to enable this feature:
@@ -27,7 +28,7 @@ AniTrail offers a cloud synchronization feature using Google Drive. If you choos
 AniTrail does not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian and believe your child has provided us with personal data, please contact us so that we can take necessary actions.
 
 ## 5. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in this repository and updating the "Effective Date" at the top of this document. We advise you to review this page periodically for any changes.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this webpage and updating the "Effective Date" at the top of this document. We advise you to review this page periodically for any changes.
 
 ## 6. Contact Us
 If you have any questions, concerns, or suggestions regarding our Privacy Policy, please contact us at support@cxultra.com.
