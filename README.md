@@ -7,3 +7,6 @@ Privacy policies and terms of service for apps published by CX Ultra.
 - **[AuraClock](auraclock/)**
   - [Privacy Policy](auraclock/privacy-policy.md)
   - [Terms and Conditions](auraclock/terms-and-conditions.md)
+- **[AniTrail](anitrail/)**
+  - [Privacy Policy](anitrail/privacy-policy.md)
+  - [Terms and Conditions](anitrail/terms-and-conditions.md)
