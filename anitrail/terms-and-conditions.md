@@ -51,4 +51,4 @@ AniTrail is provided on an "AS IS" and "AS AVAILABLE" basis without warranties o
 We reserve the right to modify or replace these Terms at any time. We will provide notice of significant changes by updating the "Effective Date" at the top of this document or by presenting a notification within the App. Your continued use of the App after any such changes constitutes your acceptance of the new Terms.
 
 ## 8. Contact Information
-If you have any questions about these Terms, please contact us at support@cxultra.com.
+If you have any questions about these Terms, please contact us at chrisxadev@gmail.com.

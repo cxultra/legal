@@ -31,4 +31,4 @@ AniTrail does not knowingly collect personally identifiable information from chi
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this webpage and updating the "Effective Date" at the top of this document. We advise you to review this page periodically for any changes.
 
 ## 6. Contact Us
-If you have any questions, concerns, or suggestions regarding our Privacy Policy, please contact us at support@cxultra.com.
+If you have any questions, concerns, or suggestions regarding our Privacy Policy, please contact us at chrisxadev@gmail.com.
